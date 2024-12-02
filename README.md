@@ -1,4 +1,4 @@
-# data512-final-part-1
+# data512-final
 Author: Ashwin Naresh
 
 ## License 
