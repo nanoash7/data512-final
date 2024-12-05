@@ -32,4 +32,4 @@ In this project, I use a custom smoke estimate metric that I created along with 
 - parsed_aqi_data.csv (Contains aqi data). Columns: year (int), aqi (int, air quality estimate).
 
 ## Project Reflection and Extra Details
-The project reflection, project slide deck, and final project report can be found in the PDF file located in this repository.
+The project reflection, project slide deck, and final project report can be found in the PDF file located in the Presentation and Summary folder!
